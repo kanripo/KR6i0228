@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:26.494903
+#+DATE: 2015-08-30 20:13:27.630810
 #+TITLE: 佛說大自在天子因地經
 #+PROPERTY: CBETA_ID T15n0594
 #+PROPERTY: ID KR6i0228
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 594
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0228_T_000-0127a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0228_T_001-0127a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.594¶
-
- 《佛說大自在天子因地經》¶
+No. 594¶
+《佛說大自在天子因地經》¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳法大師臣施護奉　詔譯¶
@@ -31,7 +30,7 @@ No.594¶
 繞四邊作七種妓樂。於宮四方而有七殿廣¶
 一俱盧舍。各以七寶而用嚴飾。復於四邊各¶
 有浴池甘露之水清淨彌滿。於其池中生白¶
-蓮華俱母㮈花如天白月。金銀摩尼莊嚴其¶
+蓮華俱母[木*奈]花如天白月。金銀摩尼莊嚴其¶
 上。彼大自在天子與烏摩天后於師子座上¶
 同座而坐。彼諸天眾恒來圍繞恭敬供養。其¶
 天忽聞琴樂之聲音韻微妙。聞已愛著令心
